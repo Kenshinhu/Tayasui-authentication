@@ -1,0 +1,7 @@
+{
+  "predef"        : [  // Extra globals.
+    "require",
+    "define",
+    "notify"
+  ]
+}
